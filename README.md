@@ -5,7 +5,7 @@
 
 Validator node for Matic Network. It uses peppermint, customized [Tendermint](https://github.com/tendermint/tendermint). 
  
-### Install from source 
+### Install from source  
 
 Make sure your have go1.11+ already installed
 
